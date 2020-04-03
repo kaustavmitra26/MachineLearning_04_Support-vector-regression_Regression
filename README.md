@@ -1,4 +1,4 @@
-It performs Regression, predicting continous ordered variable.In SVR we try to 'fit teh error within a certain threshold'.
+It performs Regression, predicting continous ordered variable.In SVR we try to 'fit the error within a certain threshold'.
 
 
 YOUTUBE:
